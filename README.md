@@ -1,2 +1,2 @@
 # rsschool-cv
-For task Markdown&amp;Git
+https://your-github-account.github.io/rsschool-cv/cv
