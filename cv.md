@@ -23,3 +23,11 @@ Start a career as a front-end developer and grow to a major developer in three y
 * [Sorter](https://github.com/bagdik/sorter.git)
 * [Love-triangle](https://github.com/bagdik/love-triangle.git)
 ## Work experience
+
+## Education
+**Belarussian State University of Informatics and Radioelectronics, 2013 - 2018**
+specialty: software engineer economist
+**Belarussian State University, 2001 - 2006** 
+specialty: physicist engineer
+## Special skils
+* English pre-intermediate
