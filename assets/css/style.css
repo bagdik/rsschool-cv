@@ -1,0 +1,28 @@
+body {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.wrapper {
+  width: 700px;
+  margin: 0 auto;
+}
+
+.header {
+  display: flex;
+  justify-content: space-between;
+  background-color: #464444;
+  padding: 20px;
+  color: #FFF;
+  font-size: 20px;
+}
+
+section {
+  margin-bottom: 10px;
+  border-bottom: 1px solid #A2A2A2;
+  padding: 20px;
+}
+
+footer {
+  min-height: 30px;
+  background-color: #e47e0a;
+}
